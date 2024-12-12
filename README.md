@@ -12,11 +12,11 @@
 <p align="center">
   <img src="./asset/CFPL_FAS.jpg" alt="showcase">
   <br>
-  For more information, visit our <a href="https://liuajian.github.io/"><strong>paper</strong></a>
+  For more information, visit our <a href="https://liuajian.github.io/"><strong>Homepage</strong></a>
 </p>
 
 ## 🔥 Updates
-- **`2024/12/012`**: We have built an initial version of the [CASIA-FAS-Benchmark](https://github.com/liuajian/CASIA-FAS-Benchmark). Continuous updates!
+- **`2024/12/12`**: We have built an initial version of the [CASIA-FAS-Benchmark](https://github.com/liuajian/CASIA-FAS-Benchmark). Continuous updates!
 - **`2024/12/05`**: We have restructured the management format of the face anti-spoofing datasets, [CASIA-FAS-Dataset](https://github.com/liuajian/CASIA-FAS-Dataset). Continuous updates!
 
 ## Introduction 📖
