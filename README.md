@@ -12,7 +12,7 @@
 <p align="center">
   <img src="./asset/CFPL_FAS.jpg" alt="showcase">
   <br>
-  For more information, visit our <a href="https://liuajian.github.io/"><strong>Homepage</strong></a>
+  For more information, visit my <a href="https://liuajian.github.io/"><strong>Homepage</strong></a>
 </p>
 
 ## 🔥 Updates
