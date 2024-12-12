@@ -2,17 +2,17 @@
 
 <div align='center'>
     <a href='https://github.com/liuajian' target='_blank'><strong>Ajian Liu</strong></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN' target='_blank'><strong>GoogleScholar</strong></a><&emsp;
+    <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN' target='_blank'><strong>GoogleScholar</strong><&emsp;
 </div>
 <div align='center'>
-    <sup>1 </sup>CBSR, MAIS, CASIA&emsp;
+    </sup>CBSR, MAIS, CASIA&emsp;
 </div>
 
 
 <p align="center">
   <img src="./asset/CFPL_FAS.jpg" alt="showcase">
   <br>
-  For more information, visit our <a href="https://liuajian.github.io/"><strong>paper</strong></a> ?
+  For more information, visit our <a href="https://liuajian.github.io/"><strong>paper</strong></a>
 </p>
 
 ## 🔥 Updates
@@ -101,8 +101,9 @@ If you find the repo useful for your research, welcome to 🌟 this repo and cit
 ```
 
 ## Contact 📧
-[**Ajian Liu**](https://liuajian.github.io/)
-[**Email**] **ajian.liu@ia.ac.cn** or **ajianliu92@gmail.com**
+Name: [**Ajian Liu**](https://liuajian.github.io/)
+
+Email: **ajian.liu@ia.ac.cn** or **ajianliu92@gmail.com**
 
 
 
