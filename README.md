@@ -2,7 +2,7 @@
 
 <div align='center'>
     <a href='https://github.com/liuajian' target='_blank'><strong>Ajian Liu</strong></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN' target='_blank'><strong>GoogleScholar</strong><&emsp;
+    <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN' target='_blank'><strong>GoogleScholar</strong>&emsp;
 </div>
 <div align='center'>
     </sup>CBSR, MAIS, CASIA&emsp;
@@ -18,7 +18,6 @@
 ## 🔥 Updates
 - **`2024/12/012`**: We have built an initial version of the [CASIA-FAS-Benchmark](https://github.com/liuajian/CASIA-FAS-Benchmark). Continuous updates!
 - **`2024/12/05`**: We have restructured the management format of the face anti-spoofing datasets, [CASIA-FAS-Dataset](https://github.com/liuajian/CASIA-FAS-Dataset). Continuous updates!
-- **`2024/12/01`**: I release the [homepage](https://liuajian.github.io/) and update personal achievements.
 
 ## Introduction 📖
 This repo, named **CASIA-FAS-Benchmark**, contains the official PyTorch implementation for our series of papers).
@@ -101,9 +100,7 @@ If you find the repo useful for your research, welcome to 🌟 this repo and cit
 ```
 
 ## Contact 📧
-Name: [**Ajian Liu**](https://liuajian.github.io/)
-
-Email: **ajian.liu@ia.ac.cn** or **ajianliu92@gmail.com**
+Name: [**Ajian Liu**](https://liuajian.github.io/); Email: **ajian.liu@ia.ac.cn**
 
 
 
